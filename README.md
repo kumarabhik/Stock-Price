@@ -1,4 +1,4 @@
-## Stock Price Prediction and Trading System
+# Stock Price Prediction and Trading System
 ## Overview
 This repository contains a project focused on stock price prediction and trading. It involves various tasks related to data analysis, normalization techniques, LSTM modeling, and trading strategies.
 
