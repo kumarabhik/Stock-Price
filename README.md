@@ -3,7 +3,7 @@
 This repository contains a project focused on stock price prediction and trading. It involves various tasks related to data analysis, normalization techniques, LSTM modeling, and trading strategies.
 
 Project Tasks
-# Data Visualization
+## Data Visualization
 Visualized minute-by-minute and day-by-day closing price series for multiple stocks.
 Created complete candlestick charts with volume.
 Observed occasional data issues, including unexpected jumps and missing data points in the minute-by-minute data.
